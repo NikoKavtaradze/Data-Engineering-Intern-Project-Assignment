@@ -17,6 +17,8 @@ This modular approach ensures code clarity, maintainability, and reproducibility
 **The main Python packages used in this project are:**
 
 pandas – for data manipulation.
+
 requests – for API requests.
+
 mysql-connector-python – to connect and insert data into MySQL.
 ___________
